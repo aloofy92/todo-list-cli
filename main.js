@@ -21,7 +21,7 @@ let status = [];
 
 
 
-while (option !== 6) { //Loop includes all options except exit
+while (option !== 5) { //Loop includes all options except exit
     if (option === 1) { //add/ creating the to do item
         console.log('\n~ Creating a new to-do item ~');
         console.log('Hi! What is the new to-do item called?');
